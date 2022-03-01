@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Unto his Grace his Majesties High Commissioner and the right honourable Estates of Parliament. The petition of Sir Robert Chiesly present Lord Provost of the burgh of Edinburgh, John Robertson, George Home, Archibald Rule, and Adam Brown, present bailies thereof, Hugh Blair Dean of Gild and Patrick Thomson theasaurer [sic]. For themselves and in name of the whole council and community of said burgh.</title>
+            <author>Chiesly, Robert.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02141</idno>
+            <idno type="STC">Wing C3846B</idno>
+            <idno type="STC">ESTC R175766</idno>
+            <idno type="EEBO-CITATION">53298995</idno>
+            <idno type="OCLC">ocm 53298995</idno>
+            <idno type="VID">179772</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02141)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179772)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2802:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Unto his Grace his Majesties High Commissioner and the right honourable Estates of Parliament. The petition of Sir Robert Chiesly present Lord Provost of the burgh of Edinburgh, John Robertson, George Home, Archibald Rule, and Adam Brown, present bailies thereof, Hugh Blair Dean of Gild and Patrick Thomson theasaurer [sic]. For themselves and in name of the whole council and community of said burgh.</title>
+                  <author>Chiesly, Robert.</author>
+               </titleStmt>
+               <extent>3 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Town clerks --  Scotland --  Edinburgh --  Early works to 1800.</term>
+               <term>Edinburgh (Scotland) --  Politics and government --  17th century --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:179772:1"/>
+            <pb facs="tcp:179772:1" rendition="simple:additions"/>
+            <head>UNTO HIS GRACE HIS MAJESTIES HIGH COMMISSIONER And the Right Honourable Eſtates of Parliament.</head>
+            <head type="sub">The Petition of Sir <hi>Robert Chieſly</hi> preſent Lord Pro<g ref="char:EOLhyphen"/>voſt of the Burgh of <hi>Edinburgh, John Robertſon, George Home, Archibald Rule,</hi> and <hi>Adam Brown</hi> preſent Baillies thereof, <hi>Hugh Blair</hi> Dean of Gild and <hi>Patrick Thomſon</hi> Theſaurer. For themſelves and in name of the whole Council and Commu<g ref="char:EOLhyphen"/>nity of the ſaid Burgh.</head>
+            <opener>Humbly Sheweth</opener>
+            <p>THAT where by the old Cuſtome and Conſtitution of the Brugh, and which is certainly moſt agreeable to the good Goverment and quiet of all Burghs, the Town Clerks of <hi>Edinburgh</hi> as being the Townes Servants were only <hi>durante beneplacito,</hi> untill at firſt the deceaſt Sir <hi>William Thomſon,</hi> obtained from the then Magiſtrates and Council by his extraordinary influence, a gift of the Clerk<g ref="char:EOLhyphen"/>ſhip <hi>ad vitam,</hi> and then upon his being deprived, and ſome other Contenti<g ref="char:EOLhyphen"/>ous changes, that afterwards fell out to the Towns great Vexation and Expenc<g ref="char:EOLhyphen"/>es. The deceaſt Sir <hi>James Rochead</hi> did impetrate and elicite from them, an Act dated the 30 of <hi>August</hi> 1678 years, whereby upon a ſpecious narrative of Right, and the ſecurity that Men ought to have for the ſame, he prevailed with the then Magiſtrates and Council to ſtatute and ordain in his favours, that no Clerk of <hi>Edinburgh</hi> for hereafter ſhould be challenged or removed from their office, whatever may be their demerit, but by a certain ſolemn form of proceſs of his de<g ref="char:EOLhyphen"/>vyſing, and wherein he was to have a ſubſcribing Anſwer, and all the proces to be carried on both <hi>Scripto</hi> and <hi>viva voce</hi> by Advocats if he thought fit, and by ſuch Intervals and periods, as that it was to laſt at leaſt four Weeks. By which Act, wherein there is no proviſion made for the ſaid Good Town, either for debarring Advocation, or excluding Suſpenſion, as might well have been ex<g ref="char:EOLhyphen"/>pected
+<pb n="2" facs="tcp:179772:2"/>after ſo Cautious a Contrivance for ſecuring of the Town Clerk: The Towns Power and Liberties were in effect ſtollen from them, and the Clerks who are and ought to be their Servants made more than half Maſters, And this when the ſaid Sir <hi>James</hi> with the ſaid <hi>Aeneas</hi> came to be admitted and inſtalled in the ſaid office, they were not only admitted Conjunctly, and with a ſurvivance to the longeſt liver, which is alſo Injurious to the Liberties of the Burgh, but in their Act of Admiſſion of the date the twenty one of <hi>January</hi> 1687 years, the ſame proviſion of a formal and ſolemn proces in the Terms foreſaid is repeated as a condition, whereby it is evident, that for the Magiſtrates and Town Council to offer to bring their Servant the Town Clerk to a Tryal before themſeves, were only to engage themſelves in contentious Pleas &amp; Advocations, &amp; Suſpenſions, to the great Charges, &amp; diſorder and Conuſion of the Burgh, during ſo long a dependence: And therefore the Magiſtrates and Town Council of <hi>Edinburgh,</hi> having not only the foreſaid Incroachment to complain of. But alſo a charge of ſeverall Malverſations againſt the ſaid <hi>Aeneas Mcleod</hi> their preſent Clerk, do in all humility addreſs themſelves to this High and Honour<g ref="char:EOLhyphen"/>able Court of Parliament, to whoſe care and Protection the good order and quiet of all his Majeſties Royall Burghs, doth moſt properly pertain. And as to the ſaid <hi>Aeneas</hi> they complain.</p>
+            <p n="1">
+               <hi>1mo.</hi> That he entered into the ſaid Office of Clerk as conjunct with Sir <hi>James Rochead,</hi> and now injoyes the ſame by the ſole benefice of an unwarantable ſurvivance, which was granted by the then Magiſtrates to the prejudice of the true liberties of the Brugh.</p>
+            <p n="2">
+               <hi>2ly</hi> During his being Clerk he has neglected the Regiſters &amp; Records of the Brugh which are for the moſt part left be hind unfilled up &amp; ſome of them for ſo long a time, that they are in hazard to fall in diſuſe: as firſt the Dean of Gilds Regiſter of the locked Book which was begun in the 1487 Years, and ever ſince continued untill the Twenty fourth of <hi>February</hi> 1669. hath ſince that time been altogether neglected, &amp; tho' there be Scroll Books &amp; Minus made by the under-Clerkes from the ſaid 24. of <hi>February</hi> 1669. to this day Yet the fore<g ref="char:EOLhyphen"/>ſaid Regiſter and locked Books are not filled up, but have been at a ſtand ſince the ſaid year 1669. And theſe ſcroll Books are altogether vitiat, and can<g ref="char:EOLhyphen"/>not make faith, being all interlined, and many things written upon the Margin.</p>
+            <p n="3">
+               <hi>3ly,</hi> There is no Regiſter at all keeped of Jedges and warrands for bound<g ref="char:EOLhyphen"/>ing of Lands within Burgh, albeit their are ſeveral Acts of the Town Council appointing an Regiſter to be exactly keeped of all the ſaids Jedges, and warrands granted by the Dean of Gild and his Council.</p>
+            <p n="4">
+               <hi>4ly,</hi> The Regiſter of Decreets, whereof the Records are extant, and in good or<g ref="char:EOLhyphen"/>der from the third of <hi>March</hi> 1569 to the 28 of <hi>August</hi> 1677, have ſince that time been altogether ſlighted, &amp; no Decreet Regiſtrate &amp; booked as it ought to be.</p>
+            <p n="5">
+               <hi>5ly,</hi> The Regiſter called, the Council Regiſter, and continued with great care from the 1557 to <hi>December</hi> 1691. is ſince that time now by the ſpace of three or four years unfilled up, and nelected.</p>
+            <p n="6">
+               <hi>6ly.</hi> The Regiſter of Diſpoſitiones and Bonds is carried on very exactly from the 1561 to the 1690, but ſince that time is likwiſe unfilled up, and there are alſo Books of Diſpoſitions from the firſt of <hi>January</hi> 1678. And to the year 1686. But all of them incompleat, &amp; brought no farther forward than the ſaid year 1686</p>
+            <p n="7">
+               <hi>7ly.</hi> There are Acts of Town Council moſt confuſedly &amp; indiſtinctly, &amp; in ap<g ref="char:EOLhyphen"/>pearance falſely recorded, as particularly, the Act of the Town Council the Day of <hi>July</hi> 1690 years anent a Bond of <hi>three Thouſand pound Sterling</hi> granted
+<pb n="3" facs="tcp:179772:2"/>anent the Earle of <hi>Melvill,</hi> which is begun with one hand, and continued with another: And neither coherently, or at all agreeable to what was re<g ref="char:EOLhyphen"/>ſolved in the ſaid Town Council about that Bond. <hi>viz.</hi> That it ſhould be given for the impoſition which was not then obtained, and not for the pittiful Cauſes therein ſet down. And the ſaid Act is alſo vitiat, and hath words delete in the end, and other words viſibly added, and which overrun the Provoſts ſubſcription, all which is manifeſt to ocular Inſpection.</p>
+            <p n="8">
+               <hi>8ly,</hi> the ſaid <hi>Aeneas</hi> hath not obſerved but broken the Truſt the Town repoſed in him, in ſo far as Mr <hi>William Stirling</hi> Writer did upon the third of <hi>September,</hi> 1690 Years, give a note under his hand, wherein the ſaid <hi>Aeneas Mcleod</hi> and his Servant <hi>John Duncan</hi> are witneſſes, wherein he obliges himſelf to make pay<g ref="char:EOLhyphen"/>ment to the Tackſmen of the Towns impoſition of the the two pennies of Exciſe owing by Widow <hi>Lawries</hi> Brewarie for the ſpace therein contained, and de<g ref="char:EOLhyphen"/>clare, that a Charter which he got from the Magiſtrates of <hi>Edinburgh</hi> ſhould lye conſigned in their Clerks hands till he ſatisfied the ſame. And yet the ſaid Char<g ref="char:EOLhyphen"/>ter is given up to Mr <hi>William Stirling</hi> upon the fourth of <hi>September</hi> thereafter as Mr <hi>Stirlings</hi> Receipt teſtifies. And the ſaid impoſition was not by him pay<g ref="char:EOLhyphen"/>ed conforme to the foreſaid Note</p>
+            <p n="9">
+               <hi>9ly,</hi> And the ſaid <hi>Aeneas</hi> hath farther abuſed his Truſt, and tranſgreſſed the duty of his Office, in ſo far as he hath given out Decreets of the Town Council without any Subſcribed warrand, ſuch as a Decreet of the Town Council of the date the twenty firth day of <hi>January</hi> laſt by paſt at the inſtance of <hi>Maries</hi> Chapple againſt <hi>James Buchannan</hi> Wtight, for which there is no ſubſcribed Warrand.</p>
+            <p>And laſtly what has been lately done by the ſaid <hi>Aeneas</hi> as to Mr. <hi>Duncan. Robertſons</hi> affair, and how he neglected and deſpiſed the order of the Com<g ref="char:EOLhyphen"/>mittee of Parliament, is beſt known to the Committee before whom that matter is depending. By all which it is manifeſt that not only the Towns Rights and Liberties are incroached upon and infringed by the foreſaid <hi>Aeneas</hi> his pro<g ref="char:EOLhyphen"/>viſion and Act of Admiſſion to the ſaid Office, and by the ſaid other Act to which the ſame Relates, but alſo that he has malverſed in his foreſaid office of truſt, for which he ought to be removed and deprived, as alſo the Towns Liberties ought to be reſtored, and the foreſaids Acts to their prejudice reduced and re<g ref="char:EOLhyphen"/>ſcinded, and all ſurvivances for hereafter perpetually Diſcharged.</p>
+            <p>May it therefor pleaſe your Grace, and the Right Honour<g ref="char:EOLhyphen"/>able the Eſtates of Parliament, to grant warrand to cite the ſaid <hi>Aeneas</hi> upon forty eight hours warning, he being within the Town of <hi>Edinburgh,</hi> to compeat before your Grace and Lordſhips, to hear and ſee the premiſſes verified, and proven, and himſelf deprived and decerned to remove from the ſaid office &amp; to deliver up the whole ſeals Re<g ref="char:EOLhyphen"/>giſters and others that belong thereto, as alſo to reduce and reſcind the foreſaids Acts of Council, and to declare ſurvivancies and gifts of the ſaid Office, to be unlawfull, and to diſcharge the ſame in all time coming; according to Juſtice and Your Grace and Lordſhips Anſwer.</p>
+            <pb facs="tcp:179772:3"/>
+            <pb facs="tcp:179772:3" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
